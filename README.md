@@ -3,7 +3,7 @@
 
 <hr />
 
-# Use Alpine in project via npm
+### Use Alpine in project via npm
 
 ```bash
 npm install alpinejs
@@ -17,6 +17,8 @@ npm install alpinejs
 
   Alpine.start()
   ```
+
+### Use Collapse in project via npm
 
 ```bash
 npm install @alpinejs/collapse
