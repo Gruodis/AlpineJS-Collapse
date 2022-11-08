@@ -29,7 +29,7 @@ npm install @alpinejs/collapse
   Alpine.plugin(collapse)
   ```
 
-## Include AlpineJS and Collapse in main/app.js file (Apline scripts order matters)
+### Combine include AlpineJS and Collapse in main/app.js file (Apline scripts order matters)
 ```js
 import Alpine from 'alpinejs';
 import collapse from '@alpinejs/collapse'
