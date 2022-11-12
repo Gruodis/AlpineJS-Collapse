@@ -2,7 +2,9 @@
 <p align=center>How to include AlpineJS &amp; Collapse</p>
 
 
-<p align=center>AlpineJS lessons: [here](https://laracasts.com/series/alpine-essentials/episodes/1) </p>
+<p align=center>AlpineJS lessons: 
+  [here](https://laracasts.com/series/alpine-essentials/episodes/1)
+</p>
 
 
 <hr />
