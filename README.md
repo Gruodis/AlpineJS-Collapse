@@ -11,13 +11,13 @@ AlpineJS lessons: [here](https://laracasts.com/series/alpine-essentials/episodes
 npm install alpinejs
 ```
 
-- import Alpine into your bundle and initialize it like so:
+import Alpine into your bundle and initialize it like so:
   ```js
-      import Alpine from 'alpinejs'
+  import Alpine from 'alpinejs'
 
-      window.Alpine = Alpine
+  window.Alpine = Alpine
 
-      Alpine.start()
+  Alpine.start()
   ```
 <br />
 <br />
@@ -27,15 +27,19 @@ npm install alpinejs
 ```bash
 npm install @alpinejs/collapse
 ```
-- import Alpine into your bundle and initialize it like so:
+import Alpine into your bundle and initialize it like so:
   ```js
   import Alpine from 'alpinejs'
   import collapse from '@alpinejs/collapse'
 
   Alpine.plugin(collapse)
   ```
+  
+<br />
+<br />
 
 ### Combine include AlpineJS and Collapse in main/app.js file (Apline scripts order matters)
+
 ```js
 import Alpine from 'alpinejs';
 import collapse from '@alpinejs/collapse'
