@@ -13,12 +13,14 @@ npm install alpinejs
 
 - import Alpine into your bundle and initialize it like so:
   ```js
-  import Alpine from 'alpinejs'
+      import Alpine from 'alpinejs'
 
-  window.Alpine = Alpine
+      window.Alpine = Alpine
 
-  Alpine.start()
+      Alpine.start()
   ```
+<br />
+<br />
 
 ### Use Collapse in project via npm
 
