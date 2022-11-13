@@ -1,5 +1,5 @@
-<h1 align=center>AlpineJS & Collapse How To</h1>
-<p align=center>How to include AlpineJS &amp; Collapse</p>
+<h1 align=center>AlpineJS</h1>
+<p align=center>How to include AlpineJS &amp; Collapse in your project</p>
 
 AlpineJS lessons: [here](https://laracasts.com/series/alpine-essentials/episodes/1)
 
