@@ -5,6 +5,19 @@ AlpineJS lessons: [here](https://laracasts.com/series/alpine-essentials/episodes
 
 <hr />
 
+### Essentials
+
+  - Hide Elements Until Alpine Js Loads
+
+  ```css
+  [x-cloak] {
+      display: none !important;
+  }
+  ```
+  ```html
+  <div class="overlay" x-show="isModalOpen" x-cloak></div>
+  ```
+
 ### Use Alpine in project via npm
 
 ```bash
