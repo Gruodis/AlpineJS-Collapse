@@ -17,6 +17,9 @@ AlpineJS lessons: [here](https://laracasts.com/series/alpine-essentials/episodes
   ```html
   <div class="overlay" x-show="isModalOpen" x-cloak></div>
   ```
+  
+<br />
+<br />
 
 ### Use Alpine in project via npm
 
