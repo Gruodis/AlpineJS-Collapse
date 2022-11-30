@@ -5,6 +5,8 @@ AlpineJS lessons: [here](https://laracasts.com/series/alpine-essentials/episodes
 
 AlpineJS, create modal: [here](https://w3collective.com/modal-dialog-alpine-js/)
 
+Use AlpineJS and Laravel-Mix [here](https://dev.to/martin_betz/how-to-use-alpinejs-with-laravel-mix-50cc)
+
 <hr />
 
 ### Essentials
