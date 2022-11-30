@@ -3,6 +3,8 @@
 
 AlpineJS lessons: [here](https://laracasts.com/series/alpine-essentials/episodes/1)
 
+AlpineJS, create modal: [here](https://w3collective.com/modal-dialog-alpine-js/)
+
 <hr />
 
 ### Essentials
